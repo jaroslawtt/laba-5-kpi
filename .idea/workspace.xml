@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8192c724-cc96-4ec8-bd33-eece1dc49c89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/programmingbasics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba1/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba1/.idea/laba1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba1/1.1/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba1/1.1/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba1/1.2/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba1/1.2/input.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba1/1.2/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba1/1.2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba1/1.3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba1/1.3/.idea/1.3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba1/1.3/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba1/1.3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba1/1.3/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba1/1.3/node_modules/.package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba1/1.3/node_modules/linq/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba1/1.3/node_modules/linq/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba1/1.3/node_modules/linq/linq.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba1/1.3/node_modules/linq/linq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba1/1.3/node_modules/linq/linq.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba1/1.3/node_modules/linq/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba1/1.3/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba1/1.3/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba2/.idea/laba2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba2/helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba2/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba3/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba3/.idea/laba3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba3/1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba3/1/.idea/1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba3/1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba3/1/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba3/1/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba3/1/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba3/2/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba4/.idea/laba4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba4/1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba4/1/readme.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="package.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/laba2/index.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25PsI4WsA2X3VoAxquyP7UtqLNx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;16.13.1&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;16.11.26&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/38066/WebstormProjects/programmingbasics&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.typescriptcompiler&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2021.2.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\38066\WebstormProjects\programmingbasics\laba2" />
+      <recent name="C:\Users\38066\WebstormProjects\programmingbasics\addition" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/laba3/1">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8192c724-cc96-4ec8-bd33-eece1dc49c89" name="Changes" comment="" />
+      <created>1645439973119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645439973119</updated>
+      <workItem from="1645439974184" duration="17000" />
+      <workItem from="1645512848066" duration="1019000" />
+      <workItem from="1649592593337" duration="8000000" />
+      <workItem from="1649601449248" duration="191000" />
+      <workItem from="1649745449683" duration="49000" />
+      <workItem from="1649747422423" duration="525000" />
+      <workItem from="1649748056571" duration="3179000" />
+      <workItem from="1649751832101" duration="4443000" />
+      <workItem from="1649831136999" duration="3653000" />
+      <workItem from="1650441138767" duration="2512000" />
+      <workItem from="1650472405362" duration="49000" />
+      <workItem from="1651410007779" duration="437000" />
+      <workItem from="1651410462466" duration="346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/laba2/index.js" />
+        <option value="$PROJECT_DIR$/laba4/1/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/laba3/1/index.js</url>
+          <line>103</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
